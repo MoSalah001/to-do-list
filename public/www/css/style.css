@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+}
+
+
+
+#front {
+    display: flex;
+    justify-content: center;
+}
+
+
+#result {
+    display: flex;
+    justify-content: center;
+}
+
+
+#result ol {
+    color: hsl(17, 100%, 50%);
+    font-size: 5vh;
+    padding-top: 7px;
+    max-height: 70%;
+}
+
+#result input {
+    background-image: url(../materials/criss-cross.png);
+    width: 20px;
+    height: 20px;
+    background-position: center;
+    border: none;
+    border-radius: 50%;
+}
+
+
+body {
+    background-image: linear-gradient(hsl(110, 100%, 50%),hsl(70, 100%,50%));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+}
+
