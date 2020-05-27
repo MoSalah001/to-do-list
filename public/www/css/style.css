@@ -24,7 +24,7 @@ h1 {
 }
 
 #result input {
-    background-image: url(public/www/materials/criss-cross.png);
+    background-image: url(../materials/criss-cross.png);
     width: 20px;
     height: 20px;
     background-position: center;
